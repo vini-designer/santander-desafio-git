@@ -1,1 +1,2 @@
 # Desafio de Git do Bootcamp Santander
+Prática dos principais comandos do Git Bash e do Git. Exercícios de criação de pasta, inicialização, para relacionar um repositório na nuvem ao repositório local, push e pull.
